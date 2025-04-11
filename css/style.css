@@ -1,0 +1,21 @@
+@import url('reset.css');
+@import url('header.css');
+@import url('footer.css');
+
+ :root {
+    --font-principal: "Inter", sans-serif;
+    --font-secundaria: "Inter", sans-serif;
+    --cor-fundo: #FFFFFF;
+    --cor-texto: #667085;
+    --cor-titulos: #101828;
+    --cor-destaque: #8E2424;
+    --cor-cargos: #101828;
+ }
+
+body {
+    font-family: var(--font-principal);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-size: 16px;
+    font-weight: 500;
+}
