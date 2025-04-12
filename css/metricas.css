@@ -1,0 +1,39 @@
+.container__metrica {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    padding: 96px;
+    height: 288px;
+    padding-top: 0px;
+}
+
+.metrica__numero {
+    width: 280px;
+}
+
+.metrica__numero__valor {
+    font-family: var(--font-principal);
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    color: var(--cor-destaque);
+}
+
+.metrica__titulo {
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--cor-titulos);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.metrica__paragrafo {
+    font-family: var(--font-principal);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--cor-texto);
+}
