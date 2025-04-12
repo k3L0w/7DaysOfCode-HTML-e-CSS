@@ -1,0 +1,40 @@
+.container__sobre-nos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--cor-fundo);
+    margin: 0 auto;
+    gap: 24px;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+.sobre-nos__destaque {
+    font-family: var(--font-principal);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--cor-destaque);
+}
+
+.titulo__principal {
+    font-family: var(--font-principal);
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    color: var(--cor-titulos);
+    margin: 0;
+    padding: 10px;
+}
+
+.texto {
+    font-family: var(--font-principal);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--cor-texto);
+
+
+}

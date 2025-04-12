@@ -1,6 +1,7 @@
 @import url('reset.css');
 @import url('header.css');
 @import url('footer.css');
+@import url('sobre-nos.css');
 
  :root {
     --font-principal: "Inter", sans-serif;
