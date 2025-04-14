@@ -3,6 +3,7 @@
 @import url('footer.css');
 @import url('sobre-nos.css');
 @import url('metricas.css');
+@import url('vagasabertas.css');
 
  :root {
     --font-principal: "Inter", sans-serif;
