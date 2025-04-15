@@ -38,9 +38,6 @@ A página foi construída com técnicas de **design responsivo**, garantindo usa
 
 ---
 
-
----
-
 ## 🧪 Como Visualizar o Projeto
 
 Você pode visualizar a página diretamente [clicando aqui](https://lnkd.in/dzMnFkEK).
