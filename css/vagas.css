@@ -1,0 +1,36 @@
+.container__vagas {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 40px;
+}
+
+.vaga__categoria {
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--cor-titulos);
+    margin: 0px 0px 20px 100px;
+}
+
+.vaga {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    margin: 0px 0px 20px 100px;
+}
+
+.vaga__titulo {
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: var(--cor-titulos);
+  
+}
+
+.vaga__horario {
+    margin-right: 20px;
+}
