@@ -6,6 +6,7 @@
 @import url('vagasabertas.css');
 @import url('vagas.css');
 @import url('depoimentos.css');
+@import url('rodape.css');
 
  :root {
     --font-principal: "Inter", sans-serif;
